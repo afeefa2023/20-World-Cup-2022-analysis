@@ -8,7 +8,9 @@ This is a Sport Analysis Project. Every Sport generates a lot of data which we c
 
 
 1.Data source:CSV file
+
 2.Notebook:Google Colab
+
 3.Data visualization:plotly
 
 **Data Cleaning**
